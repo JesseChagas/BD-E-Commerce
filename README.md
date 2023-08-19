@@ -1,6 +1,6 @@
 ### Desafio Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
 <p>Digital Innovation One </p>
-<p>Instrutora:Juliana Mascarenhas </p>
+<p>Instrutora: Juliana Mascarenhas </p>
 
 <h2> Tecnologias </h2>
 <br> - [BD_Designer](https://app.dbdesigner.net/) 
