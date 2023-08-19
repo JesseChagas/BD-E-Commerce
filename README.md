@@ -34,6 +34,6 @@ Base: Juliana Mascarenhas
 
 
 <h2>Banco de Dados Refinado</h2>
-![Redefinindo_BD_E_Commerce_By_Jesse Chagas]()
+![Banco de dados Redefinido](https://github.com/JesseChagas/BD-E-Commerce/assets/113779466/67f5b8b8-28ae-47f6-807c-19ce422fd358)
 
 Link do Banco de dados: https://dbdesigner.page.link/bfMmGWe2KTUSBiv59
