@@ -25,10 +25,6 @@ O pedido pode ser cancelado.
 <h2>Banco de Dados Base</h2> 
 Base: Juliana Mascarenhas
 
-[DBdesigner] (https://app.dbdesigner.net/designer/schema/0-bd_e_commerce1)
-
-[DBdesigner] (https://dbdesigner.page.link/inDzBhmQ9vjWWjpw8)
-
 ![base](https://github.com/JesseChagas/BD-E-Commerce/assets/113779466/c8fe7e8d-93c9-419d-bba7-476b86159120)
 
 
