@@ -22,168 +22,18 @@ Os pedidos são criados por clientes e possuem informações de compra, endereç
 Um produto ou mais compoem o pedido.
 O pedido pode ser cancelado.
 
-<h2>Narrativa - Fornecedor & Estoque</h2> 
+<h2>Banco de Dados Base</h2> 
 Base: Juliana Mascarenhas
+
 [DBdesigner] (https://app.dbdesigner.net/designer/schema/0-bd_e_commerce1)
+
 [DBdesigner] (https://dbdesigner.page.link/inDzBhmQ9vjWWjpw8)
 
-No BD_E_Commerce1 - Variáveis criadas durante o curso pela professora
-![Projeto_Conceitual_By_Juliana_Mascarenhas]()
+![base](https://github.com/JesseChagas/BD-E-Commerce/assets/113779466/c8fe7e8d-93c9-419d-bba7-476b86159120)
 
-Fornecedor
-ID_Fornecedor
-Razao_Social
-Terceiro Vendedor
-ID_Terceiro_Vendedor
-Razao_Social
-Local
 
-Estoque
-ID_Estoque
-Local
-Produto
-ID_Produto
-Categoria
-Descricao
-Valor
 
-Pedido
-ID_Pedido
-Descricao_Pedido
-Status_Pedido
-
-Cliente
-Nome
-Identificacao
-ID_Cliente
-Endereco
-
-Relacao de Produto / Pedido
-Quantidade
-ID_Produto
-ID_Pedido
-
-Disponibilizando um Produto
-ID_Fornecedor
-ID_Produto
-ID_Produto
-
-Produto has Estoque
-ID_Produto
-
-=================================================
-Realizada a redefinição
+<h2>Banco de Dados Refinado</h2>
 ![Redefinindo_BD_E_Commerce_By_Jesse Chagas]()
 
-Não foi possível gerar nova URL, pois a gratuidade são válidas até dez tabelas relacionadas.
-
-Variáveis criadas
-===========
-BD_E_Commerce_Refinado
-Fornecedor
-ID_Fornecedor
-Razao_Social
-
-Terceiro Vendedor
-ID_Terceiro_Vendedor
-Razao_Social
-Local
-
-Estoque
-ID_Estoque
-Local
-
-Produto
-ID_Produto
-Categoria
-Descricao
-Valor
-Sub_Categoria
-Quantidade_Estoque
-
-Pedido
-ID_Pedido
-Descricao_Pedido
-Status_Pedido
-Data_Solicitacao
-Data_Cancelamento
-Data_Entrega
-Valor_Total
-Codigo_Envio
-Data_Envio
-
-Cliente
-Nome_Cliente
-CPF_CNPJ_Cliente
-ID_Cliente
-Endereco
-Email
-Telefone
-Login_Usuario
-Senha_Usuario
-Status_Login
-Forma_Pagamento
-Valor_Total_Compra
-
-Relacao de Produto / Pedido
-Quantidade
-ID_Produto
-ID_Pedido
-
-Disponibilizando um Produto
-ID_Fornecedor
-ID_Produto
-ID_Produto
-
-Produto has Estoque
-ID_Produto
-ID_Estoque
-
-Produtos por Vendedor (Terceiro)
-ID_Terceiro_Vendedor
-ID_Produto
-Quantidade
-
-Forma_Pagamento
-ID_Forma_Pagmento
-Boleto_Bancario
-Cartao_Credito
-Cartao_Debito
-Pix
-Transferencia_Bancaria
-Descricao
-
-Endereco
-ID_Endereco
-UF
-Cidade
-Bairro
-Rua
-Complemento
-Numero
-CEP
-
-
-
-Pessoa Juridica
-CNPJ
-Razao_Social
-Nome_Fantasia
-Data_Cadastro_PJ
-
-Pessoa Fisica
-CPF
-Nome
-Sobrenome
-Data_Nascimento
-
-Forma Envio
-ID_Envio
-Forma_Envio
-Custo_Envio
-Endereco
-Codigo_Envio
-
-Atenciosamente,
-
-[Linkedin](https://www.linkedin.com/in/mirian-ajiki-molicawa-a770902b/)
+Link do Banco de dados: https://dbdesigner.page.link/bfMmGWe2KTUSBiv59
